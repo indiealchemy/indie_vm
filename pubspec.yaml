@@ -1,5 +1,5 @@
 name: indie_vm
-description:
+description: A minimalistic approach to bringing MVVM architecture to your Flutter project.
 version: 0.9.0
 homepage: https://github.com/indiealchemy/indie_vm
 
@@ -14,6 +14,6 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.0
+  flutter_lints: ^4.0.0
 
 flutter:
